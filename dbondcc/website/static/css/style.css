@@ -1,0 +1,7 @@
+body {
+  background: url(/static/img/green-fibers.png) repeat;
+}
+
+.transparent-container {
+  background-color: rgba(250, 250, 250, 0.6);
+}
