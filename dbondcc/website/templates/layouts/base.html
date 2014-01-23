@@ -37,20 +37,20 @@
 
   <body>
     <div id="wrap">
-    {% include '/layouts/navbar.html' %}
-
       <div class="container transparent-container">
+        {% include '/layouts/navbar.html' %}
+        
         {% block content %}
 
         {% endblock %}
+      
       </div>
-
-      <div id="footer">
-        {% include '/layouts/footer.html' %}
-      </div>
-
     </div>
-    
+
+    <div id="footer">
+      {% include '/layouts/footer.html' %}
+    </div>
+
     <script src="/static/js/jquery-2.0.3.min.js"></script>
     <script src="/static/js/bootstrap.min.js"></script>
   </body>
