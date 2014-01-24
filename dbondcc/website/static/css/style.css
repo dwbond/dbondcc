@@ -20,7 +20,7 @@ height:100%;
 
  /* Set the fixed height of the footer here */
 #footer {
-   text-color: white;
+   color: rgba(250, 250, 250, 0.8);
    height: 30px;
 }
 
@@ -30,4 +30,8 @@ body {
 
 .transparent-container {
   background-color: rgba(250, 250, 250, 0.8);
+}
+
+.small-picture {
+  margin-bottom: 15px;
 }
