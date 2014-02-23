@@ -1,0 +1,3 @@
+My name is Daniel Bond, and I built this simple site using Flask, and have put
+the code on Github under the GPL. If you'd like to see more its creator, my code
+and contact information is on the site. Thanks! :-)
