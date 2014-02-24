@@ -4,6 +4,13 @@ I thought I already would have written something here, but I suppose not.
 
 * Set up cloudflare, and configure its ssl certificates.
 * set up route53, move from godaddy for jerichoblog
+* set up pictures on cloudflare cdn?
+* put something more interesting in the bottom
+* fix the pull problems on the actual site in /var/www/
+* set up piwik to see visiting statistics
+* make \*.txt visible through apache
+* write a privacy policy for piwik, and add opt-out
+* add/create a favicon
 * set tabs as separate pages, now that I know this can be done with the same interface
 * move tabs to the navbar section? (no... needs differnt focus
 * Identify the information that you want to put on your front page.
