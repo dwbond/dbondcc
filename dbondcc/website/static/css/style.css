@@ -30,8 +30,13 @@ body {
   background: url(/static/img/green-fibers.png) repeat;
 }
 
+.pic-size{
+  height: 200px;
+}
+
 .transparent-container {
-  background-color: rgba(255, 255, 255, 0.7);
+  background-color: rgba(255, 255, 255, 0.6);
+  border-radius: 5px;
 }
 
 .small-bottom-margin {
