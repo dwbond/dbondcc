@@ -1,12 +1,17 @@
 from flask import render_template
 from website import website
-from flask.ext import gravatar
+# from flask.ext import gravatar
 
 @website.route('/')
-@website.route('/index')
 def index():
     return render_template("index.html",
-    
+
+    )
+
+@website.route('/suspiciouslyhappy/')
+def suspiciouslyhappy():
+    return render_template("suspiciouslyhappy.html",
+
     )
 
 # 404 error

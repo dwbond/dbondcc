@@ -30,8 +30,16 @@ body {
   background: url(/static/img/green-fibers.png) repeat;
 }
 
-.pic-size{
+.pic-size {
   height: 200px;
+}
+
+.smaller-pic-size {
+  height: 150px;
+}
+
+.bigger {
+  font-size: 80px;
 }
 
 .transparent-container {
