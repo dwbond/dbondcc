@@ -1,7 +1,5 @@
 ## To do
 
-I thought I already would have written something here, but I suppose not.
-
 * get jabber working for dbond@jabber.dbond.cc
 * set up route53 with the www thing
 * put something more interesting in the bottom
